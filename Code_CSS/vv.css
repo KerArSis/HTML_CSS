@@ -1,0 +1,30 @@
+/*
+vh - height - percent of the screen
+vw - width - percent of the screen
+*/
+/*
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner {
+    width: 50vw;
+    height: 50vh;
+    background: red;
+}
+.header {
+    width: 100vw;
+    height: 100hv;
+    background: blue;
+}
+*/
+
+/*
+default browser styles and google devTools
+*/
+
+h2 {
+    color: red;
+    font-size: 60px;
+} 
