@@ -1,5 +1,3 @@
-/* ELEMENT SELECTORS*/
-
 h1 {
     color: red;
 }
@@ -10,9 +8,6 @@ p {
     color: blue;
 }
 
-
-/* ID */
-
 #title {
     color: green;
     background: #000;
@@ -22,8 +17,6 @@ p {
     color: red;
     background: gray;
 }
-
-/* CLASS SELECTORS */
 
 .green {
     color: green;
