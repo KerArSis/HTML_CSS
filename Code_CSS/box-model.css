@@ -1,0 +1,35 @@
+/*
+BORDER-RADIUS
+Negative Margin
+*/
+/* * {
+    margin: 0;
+} */
+h1 {
+    background: red;
+   /* padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 25px;
+    padding-right: 50px;*/
+    padding: 20px;
+    /* margin: 30px; */
+    /* border-style: solid; */
+    /* border-width: 10px; */
+    /* background-color: green; */
+    /* border-bottom-style: dashed;
+    border-bottom-width: 5px;
+    border-bottom-color: #222; */
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+p {
+    background: blue;
+    padding: 20px; 
+    border: 13px solid green;
+    /* margin: 100px 20px 20px 50px; */
+    background-repeat: 50%;
+    margin-top: -100px;
+    /* padding: 30px 60px; */
+    /* padding: 20px 40px 60px 10px; */
+}
