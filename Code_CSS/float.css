@@ -1,0 +1,54 @@
+.banner {
+    bottom: 5px solid red;
+    padding: 10px;
+}
+.one {
+    float: right;
+    width: 250px; 
+    height: 200px;
+}
+.two {
+    float: left;
+    width: 1050px; 
+    height: 1000px;
+}
+p {
+    clear: both;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    float: left;
+    height: 400px;
+    width: 33.33%;
+}
+
+.one {
+    float: left;
+    background: red;
+    height: 400px;
+    width: 33.33%;
+}
+
+.two {
+    float: left;
+    background: blue;
+    height: 400px;
+    width: 33.33%;
+}
+
+.three {
+    float: left;
+    background: green;
+    height: 400px;
+    width: 33.33%;
+
+}
+
+h1 {
+    clear: both;
+}
