@@ -1,0 +1,58 @@
+/*
+    transform : translate(), scale(), rotate(), skew()
+    transition:change over time
+    transition-property:
+    transition-duration
+    transition:change over time
+    transition-delay:
+    shorthand
+*/
+
+div {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+/*
+div:hover {
+    background: coral;
+}
+*/
+
+.one {
+    background: red;
+    /*transform: translateX(50%);*/
+    /*transform: scaleX(0.5);*/
+    /*transform: rotate(340deg);*/
+    /*transform: skewX(-20deg);*/
+}
+
+.two {
+    background: green;
+    /*transform: translateY(30px);*/
+    /*transform: scaleY(2);*/
+    /*transform: rotateZ(135deg);*/
+    /*transform: rotate(135deg);*/
+    /*transform: skewY(-20deg);*/
+}
+
+.three {
+    background: blue;
+    transition: all 4s 5s;
+    /*transition-property: background;
+    transition-duration: 4s, 2s;
+    transition-delay: 3s;*/
+    /*transform: translateX(75px);*/
+    /*transform: translate(200px, 300px);*/
+    /*transform: scale(1.5, 1.5);*/
+    /*transform: rotateX(90deg);*/
+    /*transform: rotateY(90deg);*/
+    /*transform: skew(40deg, -20deg);*/
+    
+}
+
+.three:hover {
+    border-radius: 50%;
+    background: coral ;
+}
